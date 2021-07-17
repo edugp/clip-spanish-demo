@@ -1,0 +1,8 @@
+flax==0.3.4
+huggingface-hub==0.0.12
+jax==0.2.17
+streamlit==0.84.1
+torch==1.9.0
+torchvision==0.10.0
+transformers==4.8.2
+watchdog==2.1.3
